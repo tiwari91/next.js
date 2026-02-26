@@ -1099,5 +1099,6 @@
   "1098": "maxBootingWorkers must be at least 1",
   "1099": "Worker exited during shutdown",
   "1100": "Worker pool ended while requests were in-flight",
-  "1101": "Worker is ended, no more calls can be done to it"
+  "1101": "Worker is ended, no more calls can be done to it",
+  "1102": "Export encountered an error on %s, exiting the build."
 }
